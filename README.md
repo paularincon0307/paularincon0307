@@ -1,45 +1,52 @@
 ## Hi, I'm Paula Rincon 👋
 
-I am a Business Analytics & Information Systems student at the University of South Florida with an interest in data analytics, business technology, and problem-solving through technology.
+I am a Business Analytics & Information Systems student at the University of South Florida passionate about data analytics, business technology, and solving real-world problems through technology.
 
-I previously earned my Associate of Arts (A.A.) degree from Florida College and am currently continuing to build my technical and analytical skills through academic and personal projects. I enjoy learning through hands-on experience and exploring how technology can improve business operations and decision-making.
+I previously earned my Associate of Arts (A.A.) degree from Florida College and am currently developing my skills through academic, technical, and hands-on projects related to databases, networking, systems analysis, and data visualization.
 
-## 🎓 Education
+I am interested in careers in data analytics, business analysis, and risk analysis, where I can combine analytical thinking, communication, and technology to support better business decisions.
+
+## Education
 
 * University of South Florida (USF)
 
-  * Major: Business Analytics & Information Systems
+  * B.S. in Business Analytics & Information Systems
 * Florida College
 
   * Associate of Arts (A.A.)
 
-## 💼 Career Interests
+## Career Interests
 
 * Data Analytics
 * Business Analysis
 * Risk Analysis
-* Technology & Business Solutions
+* Business Technology Solutions
 
-## 🛠️ Skills & Tools
+## Technical Skills & Tools
 
 * SQL
 * Tableau
 * Power BI
 * Excel
+* Git & GitHub
 * Lucidchart
 * Figma
-* Git & GitHub
-* Networking Fundamentals
 * Database Design
+* Networking Fundamentals
 
-## 🌱 Currently Learning
+## Currently Learning
 
-* GitHub workflows
-* Advanced SQL
+* GitHub workflows & version control
+* Advanced SQL queries
 * Data visualization techniques
 * Systems and network design
 
+## Goals
+
+I am continuously building technical and professional skills that will support future internships and opportunities in analytics, technology, and business operations.
+
 Thanks for visiting my profile!
+
 
 
 <!--
