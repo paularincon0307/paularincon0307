@@ -40,6 +40,7 @@ I am interested in careers in data analytics, business analysis, and risk analys
 * Advanced SQL queries
 * Data visualization techniques
 * Systems and network design
+* Python
 
 ## Goals
 
